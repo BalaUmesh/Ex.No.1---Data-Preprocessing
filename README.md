@@ -82,19 +82,20 @@ df1 = sc.fit_transform(df)
 print(df1)
 ~~~
 ### OUTPUT:
-### Dataset
+
+### Dataset:
 ![img](s1.png)
 
-### Discribing
+### Discribing:
 ![img](s2.png)
 
-### Normalized
+### Normalized:
 ![img](s3.png)
 
 ###X_train and Y_train Values:
 ![img](s4.png)
 
-### X and Y Values
+### X and Y Values:
 ![img](s5.png)
 
 ### X_Test and Y_test values:
