@@ -81,7 +81,7 @@ sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
 ~~~
-##OUTPUT:
+### OUTPUT:
 ### Dataset
 ![img](s1.png)
 
@@ -100,5 +100,5 @@ print(df1)
 ### X_Test and Y_test values:
 ![img](s6.png)
 
-##RESULT
+### RESULT:
 Thus the above program for standardizing the given data was implemented successfully
